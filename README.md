@@ -4,7 +4,7 @@
 
 ###
 - 🧠 interning on leinao hefei
-- 💻 currently learning CS
+- 💻 currently learning Ceph
 - 🚢 will study abroad and come back in 2022
 - 💵 wanne achieve work life balance
 
