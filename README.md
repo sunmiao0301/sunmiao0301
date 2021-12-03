@@ -6,7 +6,7 @@
 - 🧠 interning on leinao hefei
 - 💻 currently learning Ceph
 - 🚢 will study abroad and come back in 2022
-- 💵 wanne achieve work life balance
+- 💵 work life balance
 
 <!--
 **sunmiao0301/sunmiao0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
