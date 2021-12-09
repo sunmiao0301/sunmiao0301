@@ -3,10 +3,7 @@
 
 
 ###
-- 🧠 interning on leinao hefei
-- 💻 currently learning Ceph
-- 🚢 will study abroad and come back in 2022
-- 💵 work life balance
+- 💻 github is an online game
 
 <!--
 **sunmiao0301/sunmiao0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
