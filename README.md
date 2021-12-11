@@ -1,8 +1,8 @@
+## Miao Sun
+- :books: I’m a computer science student about to go abroad for a MS.
+- :basketball: I love basketball and my idol is IVERSON.
+- :seat: I wanne get a work life balance. 
+- :telescope: I am not good enough to say no.
 
 
-<!--
-**sunmiao0301/sunmiao0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+<img src="https://imgur.com/rilHVxA.png"/>
