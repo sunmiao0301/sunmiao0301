@@ -1,6 +1,5 @@
 ## Miao Sun
 - :books: I’m a computer science student about to go abroad for a MSc.
-- :bath: I wanna get a work-life balance -- rest is productive.
-- :trophy: My dream is to make exciting open source projects -- issues drive me forward.
+- :coffee: I wanna get a work-life balance -- 9 to 5 is enough.
 
 <img src="https://imgur.com/rilHVxA.png"/>
