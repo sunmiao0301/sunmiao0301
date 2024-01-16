@@ -1,4 +1,4 @@
 ## Miao Sun
-- :books: I am a student in University of Warwick currently.
+- ☕:I work at Volkswagen Automotive Company. 
 
 <img src="https://imgur.com/rilHVxA.png"/>
